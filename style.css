@@ -27,3 +27,17 @@ header {
     margin: 0;
     padding: 0;
 }
+.Quem-somos-imagem{
+    width: 25%;
+}
+.Quem-somos{
+    background-image: linear-gradient(#424E61,#16CFF8);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.Quem-somos-div-conteudo{
+    width: 35%;
+}
